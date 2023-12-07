@@ -17,7 +17,7 @@ PROJECT_NAME: str = "WoodScape: RGB Fisheye"
 PROJECT_NAME_FULL: str = (
     "WoodScape: A Multi-task, Multi-camera Fisheye Dataset for Autonomous Driving"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
