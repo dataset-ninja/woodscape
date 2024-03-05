@@ -94,7 +94,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.valeo.com/en/"
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
     "__PRETEXT__": "Additionally, every image contains information about its image source (***rgb*** or ***source***), while every instance of the object has ***vehicle info***, ***depiction***, ***glass***, ***occlusion***, and ***position*** tags"
 }
-TAGS: Optional[List[str]] = None
+TAGS: Optional[List[str]] =  ['multi-camera']
 
 
 SECTION_EXPLORE_CUSTOM_DATASETS: Optional[List[str]] = None
