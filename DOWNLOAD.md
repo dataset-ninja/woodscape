@@ -1,6 +1,6 @@
 Dataset **WoodScape: RGB Fisheye** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMwOTFfV29vZFNjYXBlOiBSR0IgRmlzaGV5ZS93b29kc2NhcGUtcmdiLWZpc2hleWUtRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiY0lWWXJFdFQwSGZvRlB2R1Vmd29OcjNjVzFveEc2czF6Ri93ZkVjWTY0RT0ifQ==)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMzA5MV9Xb29kU2NhcGU6IFJHQiBGaXNoZXllL3dvb2RzY2FwZS1yZ2ItZmlzaGV5ZS1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJpa05haU1RRlhaTHBjckY1T2kvUU54MCs0T2pNNXhHbVpnQ3U4aEkrSkFBPSJ9?response-content-disposition=attachment%3B%20filename%3D%22woodscape-rgb-fisheye-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
